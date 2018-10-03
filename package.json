@@ -1,0 +1,8 @@
+{
+  "name": "nyt-react-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/randallwschwartz/nyt-react-search.git",
+  "author": "rschwartz <37844284+randallwschwartz@users.noreply.github.com>",
+  "license": "MIT"
+}
